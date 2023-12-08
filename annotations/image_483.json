@@ -1,0 +1,132 @@
+{
+    "annotations": [
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 983,
+                "y": 151,
+                "width": 102,
+                "height": 245,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        },
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 747,
+                "y": 0,
+                "width": 194,
+                "height": 143,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        },
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 344,
+                "y": 4,
+                "width": 230,
+                "height": 127,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        },
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 66,
+                "y": 5,
+                "width": 195,
+                "height": 99,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        },
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 37,
+                "y": 235,
+                "width": 199,
+                "height": 87,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        },
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "car",
+                    "color": "#ffffffff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 35,
+                "y": 568,
+                "width": 212,
+                "height": 99,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        }
+    ],
+    "kind": "annotation",
+    "labels_to_revisit_full_scene": [],
+    "annotation_state_per_task": [
+        {
+            "task_id": "6571d09bb55ccfd17bf5d28d",
+            "state": "annotated"
+        }
+    ]
+}

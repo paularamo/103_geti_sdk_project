@@ -1,0 +1,32 @@
+{
+    "annotations": [
+        {
+            "labels": [
+                {
+                    "probability": 1.0,
+                    "name": "No Object",
+                    "color": "#000000ff",
+                    "source": {
+                        "user_id": "admin@intel.com"
+                    }
+                }
+            ],
+            "shape": {
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720,
+                "type": "RECTANGLE"
+            },
+            "labels_to_revisit": []
+        }
+    ],
+    "kind": "annotation",
+    "labels_to_revisit_full_scene": [],
+    "annotation_state_per_task": [
+        {
+            "task_id": "6571d09bb55ccfd17bf5d28d",
+            "state": "annotated"
+        }
+    ]
+}
